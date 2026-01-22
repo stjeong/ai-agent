@@ -1,8 +1,8 @@
-# C# dotnet tool 생성 에이전트 플랜
+# C# dotnet tool 프로젝트 플랜
 
 ## 개요
 
-이 에이전트는 기본적인 지침을 ./charp-dev.md 파일을 기반으로 dotnet tool을 생성합니다.
+./charp-dev.md 파일을 기반으로 dotnet tool을 생성하는 규칙을 명시합니다.
 
 ## "dotnet tool"이란?
 
